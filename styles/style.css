@@ -65,7 +65,7 @@
   position: absolute;
   right: 0;
   bottom: 0;
-  width: 765x;
+  width: 765px;
   height: 608px;
   box-sizing: border-box;
   background-size: cover;
@@ -236,7 +236,6 @@ padding-top: 100px;
   position: relative;
   z-index: 1;
   background-color: #1f1f1f;
-  ;
 }
 
 .section-title_theme-dark{
