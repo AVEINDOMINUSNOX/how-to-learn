@@ -1,5 +1,7 @@
-# **Первый полноценный проект в Яндекс Практикум.**
-![](https://github.com/AVEINDOMINUSNOX/how-to-learn/blob/5dbb0b525553b4af1992d71a2468a39297e8b585/gif%20for%20readme.gif)
+<h1 align="center">Первый полноценный проект в Яндекс Практикум.</h1>
+
+<div align="center"><img src=https://github.com/AVEINDOMINUSNOX/how-to-learn/blob/5dbb0b525553b4af1992d71a2468a39297e8b585/gif%20for%20readme.gif></div>
+
 ***
 
  ## О проекте и его функциональности.
